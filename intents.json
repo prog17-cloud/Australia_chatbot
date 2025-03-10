@@ -7,13 +7,13 @@
       "context_set": ""
     },
     {
-      "tag": "Cities",
+      "tag": "cities",
       "prompt": ["Which are major cities in Australia","Which are big cities in Australia?"],
       "response": ["Major cities in Australia are Sydney,Melbourne and Brisbane"],
       "context_set": ""
     },
     {
-        "tag": "Weather",
+        "tag": "weather",
         "prompt": ["How is the weather in Australia?,"Which seasons does australia have?", "Australian Weather?"],
         "response": ["Australia has three major seasons 1.Summer 2.Winter 3.Rainy"],
         "context_set": ""
