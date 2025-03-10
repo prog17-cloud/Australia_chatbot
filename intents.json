@@ -14,7 +14,7 @@
     },
     {
         "tag": "weather",
-        "prompt": ["How is the weather in Australia?,"Which seasons does australia have?", "Australian Weather?"],
+        "prompt": ["How is the weather in Australia?","Which seasons does australia have?", "Australian Weather?"],
         "response": ["Australia has three major seasons 1.Summer 2.Winter 3.Rainy"],
         "context_set": ""
       },
