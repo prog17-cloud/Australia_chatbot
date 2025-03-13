@@ -1,14 +1,14 @@
 {
   "intents":[
     {
-      "tag": "Capital", 
-      "prompt": ["What is the capital of Australia?"],
-      "response": ["Canberra"],
+      "tag": "capital", 
+      "prompt": ["What is the capital of Australia?","capital","Capital","capital city"],
+      "response": [" The capital of Australia is Canberra"],
       "context_set": ""
     },
     {
       "tag": "cities",
-      "prompt": ["Which are major cities in Australia","Which are big cities in Australia?"],
+      "prompt": ["Which are major cities in Australia","Which are big cities in Australia?","cities"],
       "response": ["Major cities in Australia are Sydney,Melbourne and Brisbane"],
       "context_set": ""
     },
@@ -21,7 +21,7 @@
 
       {
         "tag": "Currency",
-        "prompt": ["What is the currency of Australia?"," Australian Currency?"],
+        "prompt": ["What is the currency of Australia?"," Australian Currency?","currency","Currency"],
         "response": ["Australia Dollar is the official Currency  of Australia"],
         "context_set": ""
       },
